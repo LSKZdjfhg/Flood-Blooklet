@@ -1,8 +1,8 @@
 //defining vars
-let nameOfbot = prompt("Name of bots: ")
-let gameId = prompt("Enter Game Pin: ");
-let numberOfBots = prompt("How many Bots: ")
-let botsToJoin;
+let nameOfbot = prompt("Hacker: ")
+let gameId = prompt("892006: ");
+let numberOfBots = prompt("100: ")
+let botsToJoin; yes
 
 //Credit
 console.log('%c Created by Sean v  :D', 'background: #222; color: yellow');
